@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		1EEEB251DBC1736E6008C62F8C2A4673 /* Pods-TestSampleUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2B5D1F87785A5716F2B7121C16075F58 /* Pods-TestSampleUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1F42F6527EF0BF198D63D090156C4F32 /* Pods-TestSampleUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B55EFB7C1B1FF467B740A10B56D447D5 /* Pods-TestSampleUITests-dummy.m */; };
-		34F2C53A62A4D70B2C67756021EFF22E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		3D5DF858F907155866BE64A71612A7FA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		423FD32C441E1CE1BB921A7585F49B87 /* Pods-TestSample-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E518F880DB3E57498B1B6A05911998B9 /* Pods-TestSample-dummy.m */; };
 		6B9EC83DF1D929EF8A6B00F445C262DD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
@@ -80,7 +79,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				34F2C53A62A4D70B2C67756021EFF22E /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
